@@ -4,4 +4,10 @@
     <string name="Phone">Enter Phone Number</string>
     <string name="Password">Enter Password</string>
     <string name="Confmpassword">Confirm Password</string>
+    <string name="useremail">Your Email</string>
+    <string name="otp">Enter OTP</string>
+    <string name="verifyotp">Verify OTP</string>
+    <string name="sendOTP">Send OTP</string>
+    <string name="phone">Enter Mobile Number</string>
+    <string name="email">Enter email</string>
 </resources>
